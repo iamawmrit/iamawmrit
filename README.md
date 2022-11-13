@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/iamawmrit**
 
-- ⚡ Fun fact **I see forever in your eyes...🥺❣️**
+- ⚡ Fun fact ** Life is just a number between 0-1 ❣️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
