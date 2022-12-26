@@ -5,13 +5,13 @@
 
 <img align="Center" alt="coding" width="400px" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamawmrit&label=Profile%20views&color=0e75b6&style=flat" alt="iamawmrit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamawmrit" alt="iamawmrit" /></a> </p>
 <p align="left"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/iamawmrit/count.svg" />
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamawmrit" alt="iamawmrit" /></a> </p>
+
 
 - 🔭 I’m currently working on [Django_Project](https://github.com/iamawmrit)
 
