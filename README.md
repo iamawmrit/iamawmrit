@@ -1,6 +1,6 @@
 <!-- ![logo](https://scontent.fktm1-1.fna.fbcdn.net/v/t39.30808-6/245487003_1468205266897263_6938916671237292464_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=Il7tp_mYn6EAX-kjbZC&_nc_ht=scontent.fktm1-1.fna&oh=00_AT_n9DFCRF5wstcVt2pnpiEkRUt6ktX8C6TjSagyhSNb7w&oe=635A75B5) -->
 
-<h1 align="center">Hi 👋, I'm Amrit Adhikari</h1>
+<h1 align="center">Hi 👋, I'm Amrit Adhikari @iamawmrit</h1>
 <h3 align="center">A passionate IT Student from Nepal</h3>
 
 <img align="Center" alt="coding" width="400px" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
@@ -31,7 +31,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amrit-adhikari.com.np/](https://amrit-adhikari.com.np/)
 
-- 💬 Ask me about **Python, Java, Database, WordPress, SEO**
+- 💬 Ask me about **Python, Java, Database, Django, Rest-Api, WordPress, SEO**
 
 - 📫 How to reach me **https://www.facebook.com/iamawmrit**
 
