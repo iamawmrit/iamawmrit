@@ -40,7 +40,7 @@
 
 - ⚡ Fun fact ** Life is just a number between 0-1 ❣️**
 
-<a href="https://app.daily.dev/awmrit"><img align="left" src="https://api.daily.dev/devcards/e8de2ea2c3f04cae9015319888324a21.png?r=f7m" width="400" alt="Amrit Adhikari's Dev Card"/></a>
+<a href="https://app.daily.dev/awmrit"><img align="left" src="https://api.daily.dev/devcards/e8de2ea2c3f04cae9015319888324a21.png?r=ffe" width="400" alt="Amrit Adhikari's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
